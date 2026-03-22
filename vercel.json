@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/jose_rizal_cute_modern.html" }]
+}
